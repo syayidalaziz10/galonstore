@@ -32,8 +32,6 @@ $routes->set404Override();
 $routes->get('/', 'Home::index');
 $routes->get('/dashboard', 'Home::dashboard');
 $routes->get('/user', 'UserController::index');
-$routes->get('/kurir', 'KurirController::index');
-
 /*
  * --------------------------------------------------------------------
  * Additional Routing
