@@ -6,7 +6,7 @@
     <div class="container-fluid">
         <div class="card shadow border-0 mb-7">
             <div class="card-header">
-                <h5 class="mb-0">Pengguna</h5>
+                <h5 class="mb-0">Pesanan</h5>
             </div>
             <div class="table-responsive">
                 <table class="table table-hover table-nowrap">
