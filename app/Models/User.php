@@ -12,6 +12,6 @@ class User extends Model
     }
     function tampildata()
     {
-        return $this->db->table('user')->get();
+        return $this->db->table('user')->where('id_level', 3)->get();
     }
 }
